@@ -1,5 +1,5 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
+Este es el cascarón inicial de un proyecto en JS nativo para crear aplicaciones utilizando webpack.
 
 
 ## Nota
